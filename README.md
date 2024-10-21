@@ -9,7 +9,6 @@ I am working on improving my coding and trying every day to find new knowledge t
 
 ### Contact me
 - My email is albertohernandezgaleote6@gmail.com
-- My LinkedIn is **************************
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TOKIO-V2&theme=gotham)](https://git.io/streak-stats)
 
