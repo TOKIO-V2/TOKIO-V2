@@ -2,7 +2,8 @@
 
 
 ---
-(HISTORIA)
+Hello, my name is Alberto but you can call me Toki or Tokio. I am 22 years old and I am currently studying programming around web development, although I already have some experience in the programming sector.
+I am working on improving my coding and trying every day to find new knowledge that can help me improve in this world. I am open to joining projects and accepting advice and suggestions from this world. Thank you!
 
 ### Contact me
 - My email is albertohernandezgaleote6@gmail.com
