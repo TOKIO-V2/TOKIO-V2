@@ -1,4 +1,6 @@
-![banner github](https://github.com/user-attachments/assets/8f7f84f9-7d38-43f4-af47-4d5fcd29df7d)
+![banner github](https://github.com/user-attachments/assets/9fdaaecb-43ac-4af4-9dd0-e07b7e9ede7f)
+
+
 
 
 ---
@@ -15,4 +17,4 @@ I am working on improving my coding and trying every day to find new knowledge t
 ![CSS3](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=CSS3&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=plastic&logo=Linux&logoColor=black)
 ---
-![footer github](https://github.com/user-attachments/assets/8f7f84f9-7d38-43f4-af47-4d5fcd29df7d)
+![footer github](https://github.com/user-attachments/assets/9fdaaecb-43ac-4af4-9dd0-e07b7e9ede7f)
