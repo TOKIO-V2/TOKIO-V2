@@ -10,7 +10,7 @@ I am working on improving my coding and trying every day to find new knowledge t
 ### Contact me
 - My email is albertohernandezgaleote6@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TOKIO-V2&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TOKIO-V2&theme=tokyonight)](https://git.io/streak-stats)
 
 ![HTML5](https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=Black)
 ![CSS3](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=CSS3&logoColor=blue)
