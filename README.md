@@ -1,5 +1,4 @@
-![banner github](https://github.com/user-attachments/assets/6ff62514-e1d0-42c2-8c19-e8642aa36c38)
-
+![banner github](https://github.com/user-attachments/assets/8f7f84f9-7d38-43f4-af47-4d5fcd29df7d)
 
 
 ---
@@ -15,4 +14,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-gray?style=plastic&logo=CSS3&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=plastic&logo=Linux&logoColor=black)
 ---
-![footer github](https://github.com/user-attachments/assets/6ff62514-e1d0-42c2-8c19-e8642aa36c38)
+![footer github](https://github.com/user-attachments/assets/8f7f84f9-7d38-43f4-af47-4d5fcd29df7d)
