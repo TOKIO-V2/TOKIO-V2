@@ -33,7 +33,5 @@ I am working on improving my coding and trying every day to find new knowledge t
 ### Design
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=7952B3&color=7952B3'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Material Design' src='https://img.shields.io/badge/Material_Design-100000?style=for-the-badge&logo=Material Design&logoColor=white&labelColor=757575&color=757575'/></a>
-
 ---
 ![footer github](https://github.com/user-attachments/assets/9fdaaecb-43ac-4af4-9dd0-e07b7e9ede7f)
