@@ -4,8 +4,7 @@
 
 
 ---
-Hello, my name is Alberto, i am 22 years old and I am currently studying programming around web development, although I already have some experience in the programming sector.
-I am working on improving my coding and trying every day to find new knowledge that can help me improve in this world. I am open to joining projects and accepting advice and suggestions from this world. Thank you!
+Hi, my name is Alberto. I'm 23 years old and currently studying cybersecurity, although I already have some programming experience in the Full Stack web development sector. I'm working to improve my programming and trying to acquire new knowledge every day to help me improve in this field. I'm open to participating in projects and accepting advice and suggestions. Thank you!
 
 ### Contact me
 - My email is albertohernandezgaleote6@gmail.com
