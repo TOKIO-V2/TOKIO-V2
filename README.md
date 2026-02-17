@@ -44,26 +44,11 @@ I'm learning how a SOC works and how analysts turn raw data into security-releva
 I'm progressively getting familiar with tools and technologies that are useful in or around a SOC.  
 My goal is **not** to claim mastery, but to build a solid base and grow from there.
 
-- **Operating systems & environments**
-  - Linux basics (navigation, permissions, services)
-  - Kali Linux for labs and practice
-
-- **Network & traffic analysis**
-  - Wireshark (capturing and inspecting traffic, understanding protocols)
-  - Nmap (basic scanning and service discovery in lab environments)
-
-- **Web & application security (introductory level)**
-  - Burp Suite (observing HTTP requests/responses in test environments)
-  - Browser developer tools to understand how web applications behave
-
-- **Scripting & automation (beginner level)**
-  - Python and Bash for small scripts:
-    - simple log parsing
-    - basic text processing
-    - automating repetitive checks
-
-- **Version control & documentation**
-  - Git and GitHub to organize scripts, notes and lab exercises
+- **Operating systems & environments**: Linux basics, Kali Linux for labs
+- **Network & traffic analysis**: Wireshark, Nmap
+- **Web & application security**: Burp Suite, Browser dev tools
+- **Scripting & automation**: Python and Bash for log parsing, text processing, automation
+- **Version control & documentation**: Git and GitHub
 
 I'm focusing on **understanding the concepts** behind each tool rather than just memorizing commands.
 
@@ -74,9 +59,9 @@ I'm focusing on **understanding the concepts** behind each tool rather than just
 Before shifting my focus to cybersecurity, I studied and worked with **Full Stack web development**.  
 This doesn't make me a senior developer, but it gives me a practical "under the hood" view that I can use as a junior analyst.
 
-- **Front-end**: HTML5, CSS3, JavaScript, TypeScript, Angular  
-- **Back-end**: PHP, Laravel  
-- **Databases & UI**: MySQL, Bootstrap  
+**Front-end**: HTML5, CSS3, JavaScript, TypeScript, Angular  
+**Back-end**: PHP, Laravel  
+**Databases & UI**: MySQL, Bootstrap  
 
 This helps me to:
 - Understand how an application is structured when I look at its logs or errors  
@@ -87,21 +72,11 @@ This helps me to:
 
 ## How I like to learn and work
 
-- **Lab-focused learning**  
-  I prefer to build small labs, reproduce scenarios and see what kind of logs and events are generated.  
-  This helps me connect theory with something I can actually observe.
+- **Lab-focused learning** — Building small labs, reproducing scenarios and seeing what kind of logs and events are generated
+- **Curious and honest about my level** — I'm junior, and I'm okay with that. What matters to me is **progress** and doing things with intention
+- **Clear and structured communication** — Explaining what I see in a simple and structured way: *what happened, where, since when, and why I think it matters*
 
-- **Curious and honest about my level**  
-  I'm junior, and I'm okay with that — what matters to me is **progress** and doing things with intention.
-
-- **Clear and structured communication**  
-  Even at a junior level, I try to explain what I see in a simple and structured way:  
-  *what happened, where, since when, and why I think it matters.*
-
-I'm actively looking for:
-- Opportunities to **learn in SOC-oriented environments** (labs, projects, volunteering, internships)
-- People and communities to **share knowledge, practices and challenges**
-- Feedback that helps me become a better analyst, step by step
+I'm actively looking for opportunities to learn in SOC-oriented environments (labs, projects, volunteering, internships), people and communities to share knowledge, and feedback that helps me become a better analyst, step by step.
 
 ---
 
